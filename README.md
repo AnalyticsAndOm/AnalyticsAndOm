@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Omkar Sadawarte</h1>
 <h3 align="center">A passionate and curious Data Analyst cum Data Scientist</h3>
 
-<img align="right" alt="data analytics" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611ek8dvehikeo087cgmcv5g6etqnh8dai3anyhwx4d&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="data analytics" width="400" src="https://github.com/AnalyticsAndOm/AnalyticsAndOm/blob/main/coding%20gif4.gif">
 
-- 🔭 I’m currently working on **Recommendation Engine using K Means Clustering**
+- 🔭 I’m currently working on **Order Cancellation Prediction Using Decision Tree Model**
 
 - 🌱 I’m currently learning **Adv. ML: Tensorflow; NLP; Big Data & Spark.**
 
 - 👯 I’m looking to collaborate on **Data Analytics, Data Science and ML**
 
-- 🤝 I’m looking for help with **Chatbot Design using Python**
+- 🤝 I’m looking for help with **NLP and Deep Learning**
 
 - 💬 Ask me about **Tableau, PowerBi, SQL, Python, Data Analytic, Data Science, Machine Learning**
 
