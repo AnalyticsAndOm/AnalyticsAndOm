@@ -1,7 +1,7 @@
 # About Omkar Sadawarte
 ![logo](https://github.com/AnalyticsAndOm/AnalyticsAndOm/blob/main/Brusher.png)
 <h1 align="center">Hi 👋, I'm Omkar Sadawarte</h1>
-<h3 align="center">A passionate and curious Data Analyst cum Data Scientist</h3>
+<h3 align="center">A passionate and curious Data Analyst / Data Scientist</h3>
 
 <img align="right" alt="data analytics" width="400" src="https://github.com/AnalyticsAndOm/AnalyticsAndOm/blob/main/coding%20gif4.gif">
 
